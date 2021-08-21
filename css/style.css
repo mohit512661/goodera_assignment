@@ -208,7 +208,6 @@ width: 202px;
 height: 36px;
 left: 165px;
 top: 346px;
-border: 1px solid black;
 }
 
 .left-input-text{
@@ -244,4 +243,22 @@ height: 200px;
 left: 143px;
 top: 453px;
 border: 1px solid black;
+}
+
+.card1-heading{
+    position: absolute;
+width: 229px;
+height: 36px;
+left: 345px;
+top: 478px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 36px;
+/* identical to box height */
+
+
+color: #000000;
 }
